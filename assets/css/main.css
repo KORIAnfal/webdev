@@ -462,7 +462,7 @@ section {
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
     color: #2dc653;
-    background: rgba(13, 66, 255, 0.8);
+    background: rgba(129, 255, 154, 0.8);
   }
 
  
@@ -500,10 +500,10 @@ section {
   }
 
   .mobile-nav-active .navbar:before {
-    content: "";
+   
     position: fixed;
     inset: 0;
-    background: rgba(14, 29, 52, 0.8);
+    background: rgba(81, 182, 96, 0.8);
     z-index: 9996;
   }
 }
@@ -600,7 +600,7 @@ section {
 .about .content ul h5 {
   font-size: 18px;
   font-weight: 700;
-  color: #19335c;
+  color: #53cf7c;
 }
 
 .about .content ul p {
